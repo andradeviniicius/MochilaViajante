@@ -1,0 +1,14 @@
+Aula 21 - Mesa de trabalho - Vinicius de Andrade
+
+Os IP's Públicos pertecem a classe de rede A B C D E
+
+A		0.0.0.1 até 126.255.255.255
+B		128.0.0.0 até 191.255.255.255	
+C		192.0.0.0 até 223.255.255.255
+D		224.0.0.0 até 239.255.255.255
+E		240.0.0.0 até 255.255.255.254
+
+No caso meu endereço público é Classe B e meu endereço privado Classe A
+
+Do nosso endereço MAC podemos obter a fabricante da placa de rede e o IP privado associado a ela em 
+sistemas de gerenciamento como DHCP
