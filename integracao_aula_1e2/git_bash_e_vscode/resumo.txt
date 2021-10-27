@@ -1,0 +1,19 @@
+Git Bash é um terminal de linha de comando assim como o cmd porém
+com as funcionalidades Git que é um programa de controle de versão
+ e VScode é uma IDE para programação em diversas linguagens. 
+ Uma IDE se trata de um agrupado de ferramentas que facilita
+o desenvolvimento de aplicações
+
+
+
+
+
+
+
+
+
+
+
+
+
+

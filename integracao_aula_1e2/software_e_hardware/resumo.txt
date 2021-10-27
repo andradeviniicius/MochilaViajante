@@ -1,0 +1,3 @@
+Software é um programa de computador que atua dentro da memória 
+da máquina enquanto hardware é a parte fisica dos componentes 
+como Processador, Placa de vídeo e etc.

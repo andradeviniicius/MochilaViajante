@@ -1,0 +1,2 @@
+Servidores são computadores montados com o intuito de armazenar
+e distribuir informações para uma rede de dispositivos 

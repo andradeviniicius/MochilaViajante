@@ -1,0 +1,3 @@
+As interfaces de usuario são as partes visiveis ao usuario do sistema, 
+onde ele poderá interagir por meio de inputs que são relacionados
+ao banco de dados.
